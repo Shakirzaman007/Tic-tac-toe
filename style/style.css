@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: blue;
+  background-color: rgb(174, 174, 235);
   text-align: center;
 }
 
@@ -33,4 +33,12 @@ body {
   box-shadow: 0 0 1em rgb(0, 0, 0.3);
   font-size: 4vmin;
   color: crimson;
+}
+
+#reset-btn{
+    padding: 1rem;
+    border-radius: 1em;
+    background-color: rgb(140, 235, 140);
+    font-size: large;
+    
 }
