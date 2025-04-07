@@ -43,3 +43,22 @@ body {
     font-size: large;
     
 }
+
+#new-btn{
+    padding: 1rem;
+    border-radius: 1em;
+    background-color: rgb(140, 235, 140);
+    font-size: large;
+}
+
+#msg{
+    color: azure;
+    font-size: 5vmin;
+}
+.msg-container{
+    height: 30vmin;
+}
+
+.hide{
+    display: none;
+}
